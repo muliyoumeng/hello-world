@@ -2,7 +2,7 @@
 """
 Created on Mon Jan  8 13:54:48 2018
 
-@author: sb
+@author: muli
 """
 import pygame
 #from pygame.locals import *
