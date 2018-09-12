@@ -1,4 +1,4 @@
-# hello-world
+# game
 just a repository
 
 hello!
